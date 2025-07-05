@@ -1,2 +1,2 @@
 # action-repo
-Repo for triggering github webhooks
+Repo for triggering github webhooks project
